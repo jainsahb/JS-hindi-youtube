@@ -1,0 +1,27 @@
+// By default JS is in non-strict mode, 
+// Old JS, does not have classes, modules, arrow fns,
+
+"use strict";  // treat all JS code as newer version
+
+// alert(1 + 2)   // we're using nodejs, not browser thats why it will throw an error
+
+// number => 2^53
+// bigint  
+
+// string => "hello" or 'namaste'
+
+// null => Yes, it is also an datatype. But it also an standalone value
+
+// undefined => placeholder for when value is not defined / assigned
+
+// symbol => to find uniqueness of an components, mainly in reactjs
+
+// object =>
+
+    // console.log(typeof "hi");
+
+    console.log(typeof null);   // output: object
+    console.log(typeof undefined); // undefined
+    
+    
+    
