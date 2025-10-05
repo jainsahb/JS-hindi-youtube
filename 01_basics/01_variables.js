@@ -11,3 +11,5 @@ let accountState;   // undefined
 
 console.table([accountName, accountEmail, accountId, accountCity, accountState]);
 
+
+
